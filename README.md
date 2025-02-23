@@ -1,7 +1,7 @@
 # Student Dashboard
 The dashboard is a comprehensive tool built in Excel that transforms raw student data into actionable insights. Using Power Query, the data was meticulously cleaned and transformed, ensuring accuracy and consistency across the dataset. This robust analysis focuses on five key subjects: ART, MATHS, COMPUTER SCIENCE, HISTORY, and SCIENCE.
 Key highlights of the dashboard include:
-https://github.com/LalithaSarma14/Student-Data-Analysis-Report/blob/main/Screenshot%202025-02-23%20113147.png
+![image alt](https://github.com/LalithaSarma14/Student-Data-Analysis-Report/blob/86420268ab213b31065f7ea9a0f1498f5d1c585e/Screenshot%202025-02-23%20112835.png)
 ## Subject Satisfaction Analysis: 
 The dashboard clearly distinguishes which subjects boast high satisfaction scores and which are lagging behind. This insight allows educators to recognize strengths and address potential areas for improvement.
 ## Attendance Metrics by Gender: 
